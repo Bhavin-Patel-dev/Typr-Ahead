@@ -1,23 +1,3 @@
-# Typr-Ahead 🔍
-
-A dynamic type-ahead search implementation built with vanilla JavaScript that provides real-time search suggestions as users type.
-
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Demo](#demo)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Learning Takeaways](#learning-takeaways)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 Typr-Ahead is a lightweight, responsive autocomplete search feature that demonstrates the power of vanilla JavaScript for creating interactive user interfaces. The project showcases how to implement a type-ahead search functionality without relying on heavy frameworks or libraries.
