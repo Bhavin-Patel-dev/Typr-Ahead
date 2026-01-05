@@ -2,9 +2,6 @@
 
 A dynamic type-ahead search implementation built with vanilla JavaScript that provides real-time search suggestions as users type.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-46.8%25-yellow)
-![CSS](https://img.shields.io/badge/CSS-40.8%25-blue)
-![HTML](https://img.shields.io/badge/HTML-12.4%25-orange)
 
 ## 📋 Table of Contents
 
@@ -44,13 +41,6 @@ This project is perfect for developers learning about:
 - **Pure Vanilla JS**: No frameworks or libraries required
 - **Clean UI**: Minimalist and user-friendly interface
 
-## 🚀 Demo
-
-### Live Preview
-[View Live Demo](https://bhavin-patel-dev.github.io/Typr-Ahead/) *(Update this URL once deployed)*
-
-### Screenshots
-![Typr-Ahead Demo](./assets/demo.gif) *(Add your demo screenshot/gif here)*
 
 ## 🛠️ Technologies Used
 
@@ -190,21 +180,6 @@ function displayMatches() {
 - Network tab for API inspection
 - Elements inspection for DOM changes
 
-## 🚀 Future Enhancements
-
-Potential features to add:
-
-- [ ] **Debouncing**: Reduce API calls by adding a delay
-- [ ] **Keyboard Navigation**: Arrow keys to navigate suggestions
-- [ ] **Loading States**: Show spinner while fetching data
-- [ ] **Error Handling**: Display user-friendly error messages
-- [ ] **Cache Implementation**: Store previous searches
-- [ ] **Multiple Data Sources**: Support for different APIs
-- [ ] **Advanced Filtering**: Filter by categories or tags
-- [ ] **Recent Searches**: Display recent search history
-- [ ] **Dark Mode**: Toggle between light and dark themes
-- [ ] **Accessibility**: ARIA labels and keyboard support
-- [ ] **Unit Tests**: Add testing with Jest or Mocha
 
 ## 🤝 Contributing
 
@@ -215,48 +190,3 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-### Contribution Guidelines
-- Follow existing code style
-- Write clear commit messages
-- Update documentation as needed
-- Test your changes thoroughly
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👨‍💻 Contact
-
-**Bhavin Patel**
-
-- GitHub: [@Bhavin-Patel-dev](https://github.com/Bhavin-Patel-dev)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(Update with your actual profile)*
-- Email: your.email@example.com *(Update with your actual email)*
-
-## 🙏 Acknowledgments
-
-- Inspired by search implementations on modern websites
-- Thanks to all contributors and the open-source community
-- Built as part of learning web development fundamentals
-
----
-
-### 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/Bhavin-Patel-dev/Typr-Ahead?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Bhavin-Patel-dev/Typr-Ahead?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Bhavin-Patel-dev/Typr-Ahead)
-
-### 💡 Tips for Using This Project
-
-1. **For Learning**: Study the code step-by-step to understand each concept
-2. **For Practice**: Try modifying the design or adding new features
-3. **For Portfolio**: Customize it and showcase your own version
-4. **For Teaching**: Use as an example for teaching JavaScript concepts
-
----
-
-**⭐ If you found this project helpful, please consider giving it a star!**
-
-Made with ❤️ by Bhavin Patel
